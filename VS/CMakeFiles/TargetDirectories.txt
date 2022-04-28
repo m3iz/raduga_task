@@ -1,0 +1,3 @@
+C:/raduga_task/VS/CMakeFiles/task.dir
+C:/raduga_task/VS/CMakeFiles/ALL_BUILD.dir
+C:/raduga_task/VS/CMakeFiles/ZERO_CHECK.dir
