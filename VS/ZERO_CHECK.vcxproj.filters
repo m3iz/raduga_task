@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\raduga_task\VS\CMakeFiles\cdf252bfbe1ecb9479565b6662ac22c6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{184A4C2F-BA90-3401-9755-7F278EF2C87D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
