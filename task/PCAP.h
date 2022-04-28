@@ -5,13 +5,14 @@
 #include <iostream>
 
 class PCAPReader {
+
+private:
 	const std::string fileName;
 	bool  rev = false;
 	char ch;
 	int i = 0;
 	int dsize = 0;
 
-private:
 	uint32_t reverse(uint32_t x)
 	{
 		x = (x & 0x00FF00FF) << 8 | (x & 0xFF00FF00) >> 8;
